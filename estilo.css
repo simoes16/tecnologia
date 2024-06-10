@@ -1,3 +1,5 @@
+@import url(./estilos/header.css);
+
 :root{
     --cor-de-fundo: #cecece;
     --cor-da-fonte: #ffffff;
