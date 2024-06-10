@@ -4,3 +4,6 @@
     --cor-fonte-titulos: #12372a;
     
 }
+body{
+    background-color: var(--cor-de-fundo);
+}
