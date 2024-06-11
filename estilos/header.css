@@ -7,6 +7,10 @@
 .cabecalho--menu-hamburguer{
     height: 24px;
     width: 24px;
-    
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
     background-image: url(../imagens/menu.png);
+    background-image: url(../imagens/menu.png);
+    
 }
