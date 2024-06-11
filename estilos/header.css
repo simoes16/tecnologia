@@ -1,7 +1,9 @@
 .cabecalho{
     background-color: var(--cor-de-fundo-cabecalho);
-    color: aliceblue;
-
+    color: #fff;
+    font-size 18px;
+    display: flex;
+    
 }
 
 .cabecalho--menu-hamburguer{
